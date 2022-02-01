@@ -1,0 +1,6 @@
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb

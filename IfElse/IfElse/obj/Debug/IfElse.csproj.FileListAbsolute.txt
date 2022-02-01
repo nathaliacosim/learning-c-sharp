@@ -1,0 +1,7 @@
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\IfElse\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\IfElse\IfElse\bin\Debug\IfElse.exe
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\IfElse\IfElse\bin\Debug\IfElse.pdb
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\IfElse\IfElse\obj\Debug\IfElse.csproj.AssemblyReference.cache
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\IfElse\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\IfElse\IfElse\obj\Debug\IfElse.exe
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\IfElse\IfElse\obj\Debug\IfElse.pdb

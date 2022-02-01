@@ -1,0 +1,6 @@
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio17\Exercicio17\bin\Debug\Exercicio17.exe.config
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio17\Exercicio17\bin\Debug\Exercicio17.exe
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio17\Exercicio17\bin\Debug\Exercicio17.pdb
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio17\Exercicio17\obj\Debug\Exercicio17.csproj.CoreCompileInputs.cache
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio17\Exercicio17\obj\Debug\Exercicio17.exe
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio17\Exercicio17\obj\Debug\Exercicio17.pdb

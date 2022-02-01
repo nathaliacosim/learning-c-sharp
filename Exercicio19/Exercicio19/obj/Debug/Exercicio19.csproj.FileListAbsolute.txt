@@ -1,0 +1,6 @@
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio19\Exercicio19\bin\Debug\Exercicio19.exe.config
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio19\Exercicio19\bin\Debug\Exercicio19.exe
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio19\Exercicio19\bin\Debug\Exercicio19.pdb
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio19\Exercicio19\obj\Debug\Exercicio19.csproj.CoreCompileInputs.cache
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio19\Exercicio19\obj\Debug\Exercicio19.exe
+C:\Users\DevStaf02\Desktop\EstudosCodigo\C#\Exercicio19\Exercicio19\obj\Debug\Exercicio19.pdb
